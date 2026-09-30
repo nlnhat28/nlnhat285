@@ -3,7 +3,7 @@
 # <img src="Assets/Images/coding-animation.gif" width="35px" height="35px"> Overview <img src="Assets/Images/break-line.gif">
 
 * <img src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="21px"> : I'm from Haiduong, Vietnam
-* 🎒 : Learning IT at **<a style="color: red" href="https://hust.edu.vn/" target="_blank">HUST</a>** (2018-now)
+* 🎒 : Learning IT at **<a style="color: red" href="https://hust.edu.vn/" target="_blank">HUST</a>** (2018-2024)
 * ❤️ : Passionate about:
     - 💻 Web Development
     - 🎮 PES
