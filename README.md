@@ -43,9 +43,9 @@
 
 # <img src="Assets/Images/earth.gif" width="34px" height="34px"> Contact <img src="Assets/Images/break-line.gif">
 
-[![Facebook](https://img.shields.io/badge/Facebook.com/nlnhat28-0068c9?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nlnhat28)
+[![Facebook](https://img.shields.io/badge/Facebook.com/nlnhat28-0068c9?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nlnhat285)
 
-[![Gmail](https://img.shields.io/badge/nl.nhat28@gmail.com-bd0000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCKCBjtvwGvqLZhmbXgnhfWnmmksJpgLSrfVZNsJrgtQKJTbJbbJmnjjHhbKHHMRRjnWLNnq)
+[![Gmail](https://img.shields.io/badge/nlnhat.dev@gmail.com-bd0000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCKCBjtvwGvqLZhmbXgnhfWnmmksJpgLSrfVZNsJrgtQKJTbJbbJmnjjHhbKHHMRRjnWLNnq)
 
 [![Github](https://img.shields.io/badge/Github.com/nlnhat28-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nlnhat28/)
 
